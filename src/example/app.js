@@ -1,4 +1,4 @@
-import render from "./icecream.js";
+import render from "./lib/icecream.js";
 
 render('app',
 `<h1>hello world</h1>
