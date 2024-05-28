@@ -9,8 +9,8 @@
 
 | Table of contents | Symbol |
 | ---- | ---- |
-| [Documentation.](https://github.com/myferr/icecream-js/wiki) | 📚 |
-| [Features.](https://github.com/myferr/icecream-js/wiki#features) | ⚡ |
+| [Documentation.](https://github.com/ice-cream-js/icecream-js/wiki) | 📚 |
+| [Features.](https://github.com/ice-cream-js/icecream-js/wiki#features) | ⚡ |
 
 | Releases | Support | Date |
 | ---- | ---- | ---- |
