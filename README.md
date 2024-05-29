@@ -16,7 +16,3 @@
 | ---- | ---- | ---- |
 | v1.0.0 | ✅ | 5/28/2024 |
 ***
-
-# Socials.
-
-You can find the official account for Ice Cream JS on Mastodon at [icecreamjs](https://mastodon.social/@icecreamjs) or find the official X account for Ice Cream JS at [ice-cream-js](https://x.com/ice_cream_js)
