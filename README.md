@@ -2,7 +2,7 @@
 <img src="logo.png">
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/npm-false-red"> <img src="https://img.shields.io/badge/cli-coming_soon-blue"> <img src="https://img.shields.io/badge/developer-myfer-green"> <br><img src="https://img.shields.io/badge/builds-passing-brightgreen"> <img src="https://img.shields.io/badge/release-v1.0.0-brightgreen">
+<img src="https://img.shields.io/badge/npm-false-red"> <img src="https://img.shields.io/badge/cli-v1.0.0-blue"> <img src="https://img.shields.io/badge/developer-myfer-green"> <br><img src="https://img.shields.io/badge/builds-passing-brightgreen"> <img src="https://img.shields.io/badge/release-v1.0.0-brightgreen">
 </p>
 
 **Ice Cream** is a JavaScript library for rendering HTML easily.
