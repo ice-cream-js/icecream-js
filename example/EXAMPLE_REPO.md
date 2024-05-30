@@ -1,0 +1,1 @@
+[Example repository is found here.](https://github.com/ice-cream-js/example)
